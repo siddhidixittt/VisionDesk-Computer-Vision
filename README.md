@@ -39,6 +39,8 @@ VisionDesk provides an automated Computer Vision solution that detects people fr
 - Calculate occupancy.
 - Display occupancy status.
 - Display detection details.
+- screenshots <img width="2880" height="1618" alt="Screenshot 2026-09-17 233808" src="https://github.com/user-attachments/assets/927b7df4-6c08-44fb-bcec-7c96c7e15ab5" />
+
 
 ### Video Analysis
 - Upload MP4, AVI, MOV, or MKV.
