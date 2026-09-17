@@ -337,13 +337,3 @@ The objective is occupancy analysis rather than identity recognition.
 
 
 ---
-
-
-
----
-
-## 19. Author
-
-**Student Project - VITyarthi Build Your Own Project**
-
-Subject: Computer Vision
