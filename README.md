@@ -1,5 +1,8 @@
 # VisionDesk 
 
+SIDDHI DIXIT 
+24BAI10073
+
 ## Computer Vision Based Classroom Occupancy & Crowd Analytics
 
 VisionDesk is a Computer Vision application that detects people in classroom or crowd images and videos, calculates occupancy, classifies crowd status, visualizes detections, and generates analytical reports.
